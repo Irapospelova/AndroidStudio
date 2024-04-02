@@ -8,6 +8,22 @@
       <entry key="MainActivityTest2">
         <State />
       </entry>
+      <entry key="MainActivityTest3">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\irapo\.android\avd\Medium_Phone_API_VanillaIceCream.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-04-02T13:37:33.806341300Z" />
+        </State>
+      </entry>
       <entry key="app">
         <State />
       </entry>
